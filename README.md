@@ -1,4 +1,4 @@
-# power-shell
+# PowerShell Malware Analysis: 8 Essential Commands for Cybersecurity Professionals
 
 Get-NetTCPConnection
 
